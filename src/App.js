@@ -4,6 +4,9 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Banner from './components/Banner';
 import Post from './components/Post';
+import MessageForm from './components/MessageForm/MessageForm';
+
+
 
 
 export default function App() {
@@ -57,7 +60,7 @@ export default function App() {
 		<div >
 			<Navbar />
 			<Banner />
-      
+      <MessageForm />
 			<div className='grid grid-cols-3 gap-4 p-8'>
 				{postData.map((e) => {
 					return <Post content={e} />
