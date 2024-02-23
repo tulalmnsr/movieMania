@@ -1,4 +1,4 @@
-                                                                               🎥🎬CITY MOVIE🎥🎬
+                                    🎥🎬CITY MOVIE🎥🎬
 
 Features 🛠️ :
 
